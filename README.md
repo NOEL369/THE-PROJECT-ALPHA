@@ -1,4 +1,4 @@
-# THE-PROJECT-ANRO-ALPHA
+# THE-PROJECT-ALPHA
 This project focuses on developing a virtually
 controlled robot by integrating Virtual Reality (VR) and Robot
 Operating System (ROS). Robots can be used in certain
